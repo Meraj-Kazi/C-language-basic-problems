@@ -10,3 +10,6 @@
   <li>Test existing solutions and fix bugs if there any</li>
   <li>Use it for your own need</li>
 </ul>
+
+<h4><i>And I intend to write a book on basic understandings of C language, so that freshers can easily understand it without any confusion <br>
+Wish me luck!</i></h4>
