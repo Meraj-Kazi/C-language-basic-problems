@@ -16,4 +16,5 @@ Wish me luck!</i></h4>
 
 ## Update
 I've started writing the book. here's the book. You can read it. It's targeted for beginners, so experienced individuals may find it very easy.
-[C Programming Book by Meraj Kazi](https://github.com/Meraj-Kazi/C-programming-book)
+[C Programming Book by Meraj Kazi](https://github.com/Meraj-Kazi/C-programming-book) <br>
+Hope you find it helpful.
