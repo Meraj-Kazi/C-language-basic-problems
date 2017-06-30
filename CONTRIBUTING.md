@@ -8,3 +8,5 @@ First of all. thanks for considering to contribute here. <br>
 * More C programming problems and solution
 * Found bugs in existing solutions
 * A solution for any existing bug
+
+### Then Make a pull request here to tell what you have 
