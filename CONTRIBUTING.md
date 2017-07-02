@@ -9,4 +9,4 @@ First of all. thanks for considering to contribute here. <br>
 * Found bugs in existing solutions
 * A solution for any existing bug
 
-### Then Make a pull request here to tell what you have 
+### Then Make a pull request in [Faults](https://github.com/Meraj-Kazi/C-language-basic-problems/blob/master/FAULTS.md) to tell what you have found
