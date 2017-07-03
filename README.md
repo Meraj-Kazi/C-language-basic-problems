@@ -11,7 +11,7 @@
   <li>Use it for your own need</li>
 </ul>
 
-## Read the documentation and see where to make a pull request if you find any error or any suggestion! [CONTRIBUTING.md](https://github.com/Meraj-Kazi/C-language-basic-problems/blob/master/CONTRIBUTING.md)
+## Read the documentation and see where to make a pull request if you find any error or you got any suggestion! [CONTRIBUTING.md](https://github.com/Meraj-Kazi/C-language-basic-problems/blob/master/CONTRIBUTING.md)
 
 <h4><i>And I intend to write a book on basic understandings of C language, so that freshers can easily understand it without any confusion <br>
 Wish me luck!</i></h4>
