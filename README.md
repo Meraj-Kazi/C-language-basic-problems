@@ -15,7 +15,7 @@
 
 <h4><i>And I intend to write a book on basic understandings of C language, so that freshers can easily understand it without any confusion <br>
 Wish me luck!</i></h4>
-
+ 
 ## Update
 I've started writing the book. Here's the book. You can read it. It's targeted for beginners, so experienced individuals may find it very easy.
 [C Programming Book by Meraj Kazi](https://github.com/Meraj-Kazi/C-programming-book) <br>
